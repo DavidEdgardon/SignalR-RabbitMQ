@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MsjSignalR", "MsjSignalR\MsjSignalR.csproj", "{62D215BE-5A10-49F2-BC2C-5925A2FC79EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSignalR", "PostSignalR\PostSignalR.csproj", "{689EF3FA-C706-41A4-B26B-EE15997E8EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D215BE-5A10-49F2-BC2C-5925A2FC79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D215BE-5A10-49F2-BC2C-5925A2FC79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D215BE-5A10-49F2-BC2C-5925A2FC79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D215BE-5A10-49F2-BC2C-5925A2FC79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689EF3FA-C706-41A4-B26B-EE15997E8EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689EF3FA-C706-41A4-B26B-EE15997E8EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689EF3FA-C706-41A4-B26B-EE15997E8EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689EF3FA-C706-41A4-B26B-EE15997E8EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B769E84-A4F5-4F1D-9EBF-CA2B49598800}
+	EndGlobalSection
+EndGlobal

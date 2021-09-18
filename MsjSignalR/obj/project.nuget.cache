@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HrBmrynj3OFD/jZTPRvZc0ab97gmBhYXtQ4yURoFO5F4R2PlcrH1RJGVOFY90TdkNKIGVn48NzsfHjwzMiujQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\source\\repos\\MsjSignalR\\MsjSignalR\\MsjSignalR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
